@@ -1,0 +1,10 @@
+@media only screen and (max-width: 1000px) {
+    .section1 {
+        flex-direction: column-reverse;
+    }
+
+    .section1_Paras {
+        padding: 0px;
+    }
+
+}

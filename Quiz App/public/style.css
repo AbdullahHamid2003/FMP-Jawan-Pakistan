@@ -1,0 +1,10 @@
+#loader{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(232, 101, 61);
+    padding-top: 150px;
+}
+
+.body{
+    background-color: rgb(232, 101, 61);
+}
